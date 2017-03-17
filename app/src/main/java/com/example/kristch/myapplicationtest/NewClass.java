@@ -7,4 +7,7 @@ package com.example.kristch.myapplicationtest;
  */
 
 public class NewClass {
+    public NewClass(){
+        
+    }
 }
